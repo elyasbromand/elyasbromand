@@ -10,7 +10,7 @@
 
 🤖 Making AI Work For Me ;)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyasbromand)](https://github.com/anuraghazra/github-readme-stats)
+![Elyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyasbromand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
