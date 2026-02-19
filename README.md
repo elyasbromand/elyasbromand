@@ -1,6 +1,7 @@
 # It's Bromand, Elyas Bromand
 
-### ☁️ Cloud Computing Aficionado | 🛠️ Enterprise Software Engineer
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Cloud+Engineer;Distributed+Systems;Always+Learning)
+
 
 I am a results driven **Enterprise Grade Software Engineer** with a deep seated passion for architecting scalable, high-availability systems. While my heart beats for **Backend System Engineering** and complex infrastructure, I occasionally dive into the **Frontend** to craft seamless user experiences because it's fun to see the result fast.
 
