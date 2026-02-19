@@ -2,7 +2,7 @@
 
 ### ☁️ Cloud Computing Aficionado | 🛠️ Enterprise Software Engineer
 
-I am a results-driven **Enterprise Grade Software Engineer** with a deep-seated passion for architecting scalable, high-availability systems. While my heart beats for **Backend System Engineering** and complex infrastructure, I occasionally dive into the **Frontend** to craft seamless user experiences just for the fun of it.
+I am a results driven **Enterprise Grade Software Engineer** with a deep seated passion for architecting scalable, high-availability systems. While my heart beats for **Backend System Engineering** and complex infrastructure, I occasionally dive into the **Frontend** to craft seamless user experiences because it's fun to see the result fast.
 
 ---
 
@@ -13,10 +13,10 @@ I am a results-driven **Enterprise Grade Software Engineer** with a deep-seated 
 - 🌐 **Full Stack:** Bridging the gap between powerful backends and intuitive interfaces.
 
 ### 🛠️ Tech Stack & Tools:
-- **Languages:** Python, JavaScript/TypeScript, SQL.
-- **Backend:** Node.js, Django, FastAPI, RESTful APIs, Microservices.
-- **Cloud/DevOps:** AWS/Azure/GCP, Docker, Kubernetes, CI/CD Pipelines.
-- **Frontend:** React, Next.js, Tailwind CSS (the "for fun" side of things).
+- **Languages:** Python, C#, JS, SQL.
+- **Backend:** Node.js, Django, FastAPI, RESTful APIs, ASP.NET, Microservices.
+- **Cloud/DevOps:** AWS, Docker, Kubernetes, CI/CD Pipelines.
+- **Frontend:** React, Next.js, Tailwind CSS.
 
 ---
 
@@ -29,6 +29,5 @@ I am a results-driven **Enterprise Grade Software Engineer** with a deep-seated 
 ### 📫 Connect with me:
 - **LinkedIn:** [elyas-bromand](https://www.linkedin.com/in/elyas-bromand-3990522bb)
 - **Instagram:** [@elyas_bmd](https://www.instagram.com/elyas_bmd)
-- **Portfolio:** *Coming Soon / Check my Repos*
-
-> "Make it work, make it right, make it fast." — *The Engineering Mantra*
+  
+> "Let's make things work and build something cool"
