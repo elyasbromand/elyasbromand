@@ -1,24 +1,25 @@
-# It's Bromand, Elyas Bromand
+# It's Bromand, Elyas Bromand 😎
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Cloud+Engineer;Distributed+Systems;Always+Learning)
+#### Backend Engineer • Cloud • AI
 
+🧑‍💻 *System Engineer* focused on AI Automations and backend technologies. 
 
-I am a results driven **Enterprise Grade Software Engineer** with a deep seated passion for architecting scalable, high-availability systems. While my heart beats for **Backend System Engineering** and complex infrastructure, I occasionally dive into the **Frontend** to craft seamless user experiences because it's fun to see the result fast.
+🎨 Occasionally dive into the **Frontend** to craft seamless user experiences.
+
+☁️ Tinkering with distributed systems and cloud infrastructure.
+
+🤖 Making AI Work For Me ;)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyasbromand)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### ⚡ What I’m up to:
-- 🏗️ **Architecting:** Building robust, enterprise-level backend systems.
-- ☁️ **Cloud Native:** Tinkering with distributed systems and cloud infrastructure.
-- 🤖 **AI Integration:** Exploring the intersection of LLMs and automated tutoring (Check out my **Exam-AI-Model**!).
-- 🌐 **Full Stack:** Bridging the gap between powerful backends and intuitive interfaces.
 
 ### 🛠️ Tech Stack & Tools:
 - **Languages:** Python, C#, JS, SQL.
 - **Backend:** Node.js, Django, FastAPI, RESTful APIs, ASP.NET, Microservices.
 - **Cloud/DevOps:** AWS, Docker, Kubernetes, CI/CD Pipelines.
 - **Frontend:** React, Next.js, Tailwind CSS.
-
+  
 ---
 
 ### 📊 GitHub Stats:
