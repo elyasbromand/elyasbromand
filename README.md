@@ -1,35 +1,24 @@
-# It's Bromand, Elyas Bromand 😎
+# 💫 About Me:
+🧑‍💻 System Engineer focused on AI Automations and backend technologies.<br>🎨 Occasionally dive into the Frontend to craft seamless user experiences.<br>☁️ Tinkering with distributed systems and cloud infrastructure.<br>🤖 Making AI Work For Me ;)
 
-#### Backend Engineer • Cloud • AI
 
-🧑‍💻 *System Engineer* focused on AI Automations and backend technologies. 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elyas_bmd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elyasbromand) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bromandelyas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elyasbromand3@gmail.com) 
 
-🎨 Occasionally dive into the **Frontend** to craft seamless user experiences.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=elyasbromand&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=elyasbromand&theme=aura&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elyasbromand&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-☁️ Tinkering with distributed systems and cloud infrastructure.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=elyasbromand&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
-🤖 Making AI Work For Me ;)
-
-![Elyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyasbromand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
----
-
-### 🛠️ Tech Stack & Tools:
-- **Languages:** Python, C#, JS, SQL.
-- **Backend:** Node.js, Django, FastAPI, RESTful APIs, ASP.NET, Microservices.
-- **Cloud/DevOps:** AWS, Docker, Kubernetes, CI/CD Pipelines.
-- **Frontend:** React, Next.js, Tailwind CSS.
-  
----
-
-### 📊 GitHub Stats:
-![Elyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyasbromand&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyasbromand&layout=compact&theme=tokyonight)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=elyasbromand&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=elyasbromand&icon=2&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Connect with me:
-- **LinkedIn:** [elyas-bromand](https://www.linkedin.com/in/elyas-bromand-3990522bb)
-- **Instagram:** [@elyas_bmd](https://www.instagram.com/elyas_bmd)
-  
-> "Let's make things work and build something cool"
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
