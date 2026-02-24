@@ -9,16 +9,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=elyasbromand&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elyasbromand&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=elyasbromand&theme=aura&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=elyasbromand&limit=5&theme=aura&combine_all_yearly_contributions=true)
+
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=elyasbromand&theme=github-compact&hide_border=true)
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elyas_bmd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elyasbromand) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bromandelyas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elyasbromand3@gmail.com) 
 ---
 [![](https://visitcount.itsvg.in/api?id=elyasbromand&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
