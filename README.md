@@ -9,9 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=elyasbromand&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elyasbromand&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=elyasbromand&limit=5&theme=aura&combine_all_yearly_contributions=true)
-
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=elyasbromand&theme=github-compact&hide_border=true)
 
