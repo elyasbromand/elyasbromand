@@ -14,6 +14,6 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elyas_bmd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/elyas-bromand-3990522bb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bromandelyas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elyasbromand3@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elyas_bmd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elyas-bromand-3990522bb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bromandelyas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elyasbromand3@gmail.com) 
 ---
 [![](https://visitcount.itsvg.in/api?id=elyasbromand&icon=2&color=0)](https://visitcount.itsvg.in)
