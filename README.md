@@ -1,5 +1,8 @@
 # It's Bromand, Elyas Bromand
-- System Engineer focused on AI Automations and backend technologies.<br>- Occasionally dive into the Frontend to craft seamless user experiences.<br>- Tinkering with distributed systems and cloud infrastructure.<br>- Making AI Work For Me ;)
+\>_ System Engineer focused on AI Automations and backend technologies.
+\>_ Occasionally dive into the Frontend to craft seamless user experiences.
+\>_ Tinkering with distributed systems and cloud infrastructure.
+\>_ Making AI Work For Me ;)
 
 
 # 💻 Tech Stack:
